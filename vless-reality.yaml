@@ -3,11 +3,11 @@ allow-lan: true
 mode: Rule
 log-level: info
 proxies:
-  - name: "vless-reality-mvuvahx0"
+  - name: "vless-reality-epn2hm0e2"
     type: vless
     server: lisa9929s.linkwell.store
     port: 12603
-    uuid: 65035826-a17d-4e80-b5ff-160272fa4f04
+    uuid: e64fbbeb-6969-4c56-9d4a-d53d977a1a21
     network: tcp
     tls: true
     udp: true
@@ -23,8 +23,8 @@ proxy-groups:
   - name: "Proxy"
     type: select
     proxies:
-      - vless-reality-mvuvahx0
-      - DIRECT
+      - vless-reality-epn2hm0e2
+      - DIRECTDIRECT
 
 rules:
   - MATCH,Proxy
