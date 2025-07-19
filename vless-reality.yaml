@@ -2,6 +2,7 @@ mixed-port: 7890
 allow-lan: true
 mode: Rule
 log-level: info
+
 proxies:
   - name: "vless-reality-epn2hm0e2"
     type: vless
@@ -24,7 +25,7 @@ proxy-groups:
     type: select
     proxies:
       - vless-reality-epn2hm0e2
-      - DIRECTDIRECT
+      - DIRECT
 
 rules:
   - MATCH,Proxy
