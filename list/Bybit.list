@@ -2,6 +2,8 @@
 # REPO: https://raw.githubusercontent.com/multsean/seanrocket/refs/heads/main/list/Bybit.list
 # UPDATED: 2025-07-27 
 
+DOMAIN-SUFFIX,N26.com
+
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,bytick.com
