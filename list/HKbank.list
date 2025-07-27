@@ -1,0 +1,19 @@
+# NAME: HKbank
+# REPO: https://raw.githubusercontent.com/multsean/seanrocket/refs/heads/main/list/HKbank.list
+# UPDATED: 2025-07-27 
+
+DOMAIN-SUFFIX,bochk.com
+
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,rwbkr.com
+DOMAIN-SUFFIX,victorysec.com.hk
+
+DOMAIN-SUFFIX,longbridge.cloud
+DOMAIN-SUFFIX,longbridge.global
+DOMAIN-SUFFIX,longbridge.hk
+DOMAIN-SUFFIX,longbridge.sg
+DOMAIN-SUFFIX,longbridgeapp.com
+DOMAIN-SUFFIX,longportapp.com
+DOMAIN-SUFFIX,lbkrs.com
+DOMAIN-SUFFIX,wbrks.com
