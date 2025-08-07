@@ -2,8 +2,6 @@
 # REPO: https://raw.githubusercontent.com/multsean/seanrocket/refs/heads/main/list/HKbank.list
 # UPDATED: 2025-07-27 
 
-DOMAIN-SUFFIX,bochk.com
-
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,rwbkr.com
