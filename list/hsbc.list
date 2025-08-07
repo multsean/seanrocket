@@ -2,6 +2,8 @@
 # REPO: https://raw.githubusercontent.com/multsean/seanrocket/refs/heads/main/list/hsbc.list
 # UPDATED: 2025-07-27 
 
+DOMAIN-SUFFIX,bochk.com
+
 DOMAIN-SUFFIX,hsbc
 DOMAIN-SUFFIX,hsbc.com
 DOMAIN-SUFFIX,hsbc.net
